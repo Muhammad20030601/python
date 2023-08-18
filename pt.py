@@ -1,0 +1,2 @@
+name="Muhammad"
+print(name)
